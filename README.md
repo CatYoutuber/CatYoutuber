@@ -4,7 +4,7 @@
 * Programmer
 * [My *Website*](catyoutuber.github.io)
 
-![Me](photoAZOWD2H6.jpg.png)
+![Me](photoAZOWD2H6.jpg)
 
 ## Github's Default
 ### Hi there 👋
