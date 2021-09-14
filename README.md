@@ -1,11 +1,13 @@
 ## Me
 
-* Youtuber
-* Programmer
-* [My *Website*](catyoutuber.github.io)
+Youtuber, Programmer
+
+* [Youtube](https://www.youtube.com/channel/UCNjJnWpMz_YeKUM_806R7hw)
+* [Github](https://github.com/CatYoutuber)
+* [My Website](catyoutuber.github.io)
 
 ![Me](photoAZOWD2H6.jpg)
-
+<!--
 ## Github's Default
 ### Hi there 👋
 
@@ -21,3 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
