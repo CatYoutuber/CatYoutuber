@@ -1,6 +1,6 @@
 ## Me
 
-Youtuber, Programmer
+Youtuber, Programmer, Electrician
 
 * [Youtube](https://www.youtube.com/channel/UCNjJnWpMz_YeKUM_806R7hw)
 * [Github](https://github.com/CatYoutuber)
